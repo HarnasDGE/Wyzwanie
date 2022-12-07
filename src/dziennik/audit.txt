@@ -1,0 +1,77 @@
+12.11.2022 14:19:18 :Log: Damian - 3
+12.11.2022 14:19:27 :Log: Damian - 2
+12.11.2022 14:19:28 :Log: Damian - 2
+12.11.2022 14:19:29 :Log: Damian - 4
+12.11.2022 14:19:31 :Log: Damian - 5
+12.11.2022 14:19:33 :Log: Damian - 1
+12.11.2022 14:19:48 :Log: Damian - 2
+12.11.2022 14:19:50 :Log: Damian - 4
+12.11.2022 15:36:35 :Log: Damian - 2
+12.11.2022 15:36:38 :Log: Damian - 5
+12.11.2022 15:36:40 :Log: Damian - 6
+12.11.2022 15:36:45 :Log: Damian - 6
+12.11.2022 15:36:47 :Log: Damian - 5
+12.11.2022 15:36:52 :Log: Damian - 2
+12.11.2022 15:36:54 :Log: Damian - 3
+12.11.2022 15:36:55 :Log: Damian - 4
+12.11.2022 15:36:57 :Log: Damian - 4
+12.11.2022 15:37:08 :Log: Pawel - Zmieniono ucznia.
+12.11.2022 15:37:11 :Log: Pawel - 2
+12.11.2022 15:37:12 :Log: Pawel - 4
+12.11.2022 15:37:13 :Log: Pawel - 5
+12.11.2022 15:37:15 :Log: Pawel - 5
+12.11.2022 15:37:21 :Log: Pawel - 6
+12.11.2022 16:18:00 :Log: Damian - 2
+12.11.2022 16:18:01 :Log: Damian - 4
+12.11.2022 16:18:02 :Log: Damian - 5
+12.11.2022 16:18:04 :Log: Damian - 3
+12.11.2022 16:18:26 :Log: Tomek - Zmieniono ucznia.
+12.11.2022 16:18:33 :Log: Tomek - 6
+12.11.2022 16:18:38 :Log: Tomek - 2
+12.11.2022 16:21:40 :Log: Damian - 4
+12.11.2022 18:55:01 :Log: Pawel - Zmieniono ucznia.
+12.11.2022 19:05:51 :Log: Pawel - Zmieniono ucznia.
+12.11.2022 19:06:45 :Log: Pawel - Zmieniono ucznia.
+12.11.2022 19:12:49 :Log: q - Zmieniono ucznia.
+12.11.2022 19:13:45 :Log: ewf - Zmieniono ucznia.
+12.11.2022 19:54:24 :Log: Damian - 6
+12.11.2022 19:54:31 :Log: Damian - 0,75
+07.12.2022 19:04:29 :Log: Damian - 2
+07.12.2022 19:04:29 :Log: Damian - 3
+07.12.2022 19:04:30 :Log: Damian - 4
+07.12.2022 19:04:30 :Log: Damian - 2
+07.12.2022 19:04:31 :Log: Damian - 5
+07.12.2022 19:04:41 :Log: Damian - 4,75
+07.12.2022 19:04:56 :Log: Konrad - Zmieniono imie ucznia.
+07.12.2022 19:05:00 :Log: Konrad - 2
+07.12.2022 19:05:00 :Log: Konrad - 3
+07.12.2022 19:05:01 :Log: Konrad - 4
+07.12.2022 19:05:01 :Log: Konrad - 5
+07.12.2022 19:05:02 :Log: Konrad - 3
+07.12.2022 19:05:03 :Log: Konrad - 4
+07.12.2022 19:05:04 :Log: Konrad - 2
+07.12.2022 19:05:04 :Log: Konrad - 2
+07.12.2022 19:05:05 :Log: Konrad - 3
+07.12.2022 19:05:05 :Log: Konrad - 3
+07.12.2022 19:05:05 :Log: Konrad - 2
+07.12.2022 19:05:06 :Log: Konrad - 3
+07.12.2022 19:05:06 :Log: Konrad - 3
+07.12.2022 19:05:09 :Log: Konrad - 3
+07.12.2022 19:05:24 :Log: Konrad - 2
+07.12.2022 19:05:25 :Log: Konrad - 2
+07.12.2022 19:05:26 :Log: Konrad - 2
+07.12.2022 19:14:07 :Log: Damian - 4
+07.12.2022 19:14:08 :Log: Damian - 2
+07.12.2022 19:14:09 :Log: Damian - 3
+07.12.2022 19:22:31 :Log: Damian - 4
+07.12.2022 19:22:32 :Log: Damian - 5
+07.12.2022 19:22:32 :Log: Damian - 3
+07.12.2022 19:22:33 :Log: Damian - 3
+07.12.2022 19:22:33 :Log: Damian - 4
+07.12.2022 19:22:47 :Log: Pawel - Zmieniono imie ucznia.
+07.12.2022 19:22:51 :Log: Pawel - 3
+07.12.2022 19:22:51 :Log: Pawel - 2
+07.12.2022 19:22:52 :Log: Pawel - 5
+07.12.2022 19:22:52 :Log: Pawel - 3
+07.12.2022 19:22:52 :Log: Pawel - 5
+07.12.2022 19:22:53 :Log: Pawel - 6

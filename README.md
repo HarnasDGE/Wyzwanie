@@ -1,2 +1,2 @@
 # Wyzwanie
- Aplikacji do certyfikatu
+ Aplikacja do certyfikatu
