@@ -13,28 +13,28 @@ namespace dziennik
 
         public int Count;
 
-        public double Average 
+        public double Average
         {
             get
             {
                 return Sum / Count;
             }
         }
-         public Statistics()
-         {
+
+        public Statistics()
+        {
             Count = 0;
             Sum = 0.00;
             Max = double.MinValue;
             Min = double.MaxValue;
-         }
+        }
 
         public void Add(double number)
         {
-            Sum+=number;
+            Sum += number;
             Count++;
             Min = Math.Min(Min, number);
             Max = Math.Max(Max, number);
-            
         }
     }
 }

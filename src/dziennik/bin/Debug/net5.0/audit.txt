@@ -1,0 +1,54 @@
+14.12.2022 02:16:16 :Log: Damian - 3
+14.12.2022 02:16:17 :Log: Damian - 4
+14.12.2022 02:16:18 :Log: Damian - 2
+14.12.2022 02:16:19 :Log: Damian - 5
+14.12.2022 02:16:19 :Log: Damian - 6
+14.12.2022 02:16:19 :Log: Damian - 3
+14.12.2022 02:16:20 :Log: Damian - 4
+14.12.2022 02:16:20 :Log: Damian - 2
+14.12.2022 02:16:21 :Log: Damian - 3
+14.12.2022 02:16:49 :Log: Konrad - Zmieniono imie ucznia.
+14.12.2022 03:09:28 :Log: Damian - Zmieniono imie ucznia.
+14.12.2022 03:10:24 :Log: Damian - Zmieniono imie ucznia.
+14.12.2022 03:10:36 :Log: Damian - Zmieniono imie ucznia.
+14.12.2022 03:33:24 :Log: Konrad - Zmieniono imie ucznia.
+14.12.2022 03:33:30 :Log: Konrad - 3
+14.12.2022 03:33:31 :Log: Konrad - 4
+14.12.2022 03:33:32 :Log: Konrad - 2
+14.12.2022 03:33:35 :Log: Konrad - 4,75
+14.12.2022 03:33:40 :Log: Konrad - 3,25
+14.12.2022 11:53:42 :Log: Damian - 5
+14.12.2022 11:53:43 :Log: Damian - 3
+14.12.2022 11:54:05 :Log: Pawel - Zmieniono imie ucznia.
+14.12.2022 11:54:11 :Log: Pawel - 2
+14.12.2022 11:54:12 :Log: Pawel - 1
+14.12.2022 11:54:13 :Log: Pawel - 3
+14.12.2022 11:54:14 :Log: Pawel - 2
+14.12.2022 11:54:14 :Log: Pawel - 4
+14.12.2022 11:54:15 :Log: Pawel - 2
+14.12.2022 11:54:15 :Log: Pawel - 3
+14.12.2022 11:54:15 :Log: Pawel - 1
+14.12.2022 11:54:16 :Log: Pawel - 2
+14.12.2022 11:54:17 :Log: Pawel - 3
+14.12.2022 11:56:55 :Log: Damian - 1
+14.12.2022 11:57:00 :Log: Damian - 2
+14.12.2022 11:57:03 :Log: Damian - 4
+14.12.2022 11:57:05 :Log: Damian - 3
+14.12.2022 11:57:23 :Log: Damian - 2,75
+14.12.2022 12:01:52 :Log: Damian - 2
+14.12.2022 13:36:29 :Log: pawel - Zmieniono imie ucznia.
+14.12.2022 13:36:37 :Log: Lipka - Zmieniono imie ucznia.
+14.12.2022 13:45:12 :Log: Klaudia - Zmieniono imie ucznia.
+14.12.2022 13:46:03 :Log: Klaudia - 2
+14.12.2022 13:46:03 :Log: Klaudia - 5
+14.12.2022 13:46:08 :Log: Klaudia - 4,75
+14.12.2022 13:46:14 :Log: Klaudia - 4,5
+14.12.2022 14:41:37 :Log: pawel - Zmieniono imie ucznia.
+14.12.2022 14:41:52 :Log: pawel - 1
+14.12.2022 14:41:55 :Log: pawel - 2
+14.12.2022 14:47:48 :Log: pawel - Zmieniono imie ucznia.
+14.12.2022 14:55:51 :Log: Damian - 2
+14.12.2022 14:55:53 :Log: Damian - 3
+14.12.2022 14:55:55 :Log: Damian - 3
+14.12.2022 14:55:56 :Log: Damian - 1
+14.12.2022 14:56:01 :Log: Damian - 2,75
