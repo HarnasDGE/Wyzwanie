@@ -120,5 +120,4 @@ namespace dziennik
             WaitForKey();
         }
     }
-
 }

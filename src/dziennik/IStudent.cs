@@ -4,8 +4,8 @@ namespace dziennik
 {
     public interface IStudent 
     {
-        void AddOpinion(double oceny);
-        void AddOpinion(double oceny, char control);
+        void AddOpinion(double grade);
+        void AddOpinion(double grade, char AfterGrade);
         Statistics GetStatistics();
         string Name { get; set;}
         static DateTime UtcNow { get; }

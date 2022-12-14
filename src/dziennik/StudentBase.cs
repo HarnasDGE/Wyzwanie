@@ -12,27 +12,14 @@ namespace dziennik
 
         public event GradeAlertDelegate GradeAlert;
 
-        public abstract void AddOpinion(double oceny);
-        public abstract void AddOpinion(double oceny, char control);
+        public abstract void AddOpinion(double grade);
+        public abstract void AddOpinion(double grade, char AfterGrade);
 
         public abstract void ShowStatistics();
 
         public abstract Statistics GetStatistics();
 
         public abstract void EnterOpinion();
-
-
-        protected void ActiveGradeAlert()
-        {
-            if (GradeAlert != null) GradeAlert(this, new EventArgs());
-        }
-
-        protected void WaitForKey()
-        {
-            Console.WriteLine();
-            Console.WriteLine("Nacisnij dowolny klawisz, aby kontynuowac...");
-            Console.ReadKey();
-        }
 
         internal string ChangeStudent()
         {
@@ -44,13 +31,26 @@ namespace dziennik
             {
                 if (Char.IsDigit(CharInName)) checkName = true;
             }
-            if (checkName)
+            if (checkName || string.IsNullOrWhiteSpace(inputName))
             {
-                Console.WriteLine("W podanym imieniu wystepuje cyfra. Imienia nie zmieniono.");
+                Console.Clear();
+                Console.WriteLine("W podanym imieniu wystepuje cyfra lub nic nie wpisano");
                 WaitForKey();
                 return null;
             }
             else return inputName;
+        }
+
+        protected void ActiveGradeAlert()
+        {
+            if (GradeAlert != null) GradeAlert(this, new EventArgs());
+        }
+
+        protected void WaitForKey()
+        {
+            Console.WriteLine();
+            Console.WriteLine("Nacisnij dowolny klawisz, aby kontynuowac...");
+            Console.ReadKey();
         }
     }
 }

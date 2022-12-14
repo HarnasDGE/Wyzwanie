@@ -6,6 +6,7 @@ namespace dziennik
 {
     public class SavedStudent : StudentBase
     {
+        private const string FILE_LOG = "audit.txt";
         private string Path;
         private double minusGrade = 0.25;
         private double plusGrade = 0.50;
@@ -14,8 +15,6 @@ namespace dziennik
         {
             Path = Name + ".txt";
         }
-
-        private const string FILE_LOG = "audit.txt";
 
         public override void AddOpinion(double grade)
         {
@@ -165,7 +164,6 @@ namespace dziennik
             Console.WriteLine($"Ocena najnizsza: {statistics.Min}");
             Console.WriteLine($"Srednia: {statistics.Average:N2}");
             WaitForKey();
-
         }
     }
 }
