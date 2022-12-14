@@ -11,7 +11,6 @@ namespace dziennik
 
         public StudentInMemory(string name) : base(name)
         {
-
         }
         public List<double> grades = new List<double>();
 
