@@ -10,15 +10,14 @@ namespace dziennik.tests
         public void Test1()
         {
             // arrange
-            var emp = new SavedStudent("Damian");
 
+            var emp = new SavedStudent("Damian");
             emp.AddOpinion(4.5);
             emp.AddOpinion(6);
             emp.AddOpinion(2);
             // act
 
             var result = emp.GetStatistics();
-
             // assert
 
             Assert.Equal(4.17, result.Average, 2);

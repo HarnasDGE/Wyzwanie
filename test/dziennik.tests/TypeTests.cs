@@ -9,14 +9,8 @@ namespace dziennik.tests
         [Fact]
         public void GetStudentReturnsDifferentObjects()
         {
-            // arrange
-
             var std1 = GetStudent("Damian");
             var std2 = GetStudent("Pawel");
-
-            // act
-
-            // assert
 
             Assert.NotSame(std2, std1);
             Assert.False(Object.ReferenceEquals(std1, std2));
@@ -30,11 +24,9 @@ namespace dziennik.tests
 
             Assert.Same(std1, std2);
             Assert.True(Object.ReferenceEquals(std1, std2));
-
         }
 
         [Fact]
-
         public void CanSetNameFromReference()
         {
             var std1 = GetStudent("Pawel");
@@ -42,9 +34,6 @@ namespace dziennik.tests
 
             Assert.Equal("NewName", std1.Name);
         }
-
-
-
 
         private SavedStudent GetStudent(string name)
         {
